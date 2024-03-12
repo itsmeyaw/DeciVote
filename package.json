@@ -1,0 +1,13 @@
+{
+  "name": "DeciVote",
+  "version": "1.0.0",
+  "description": "dApp simple voting",
+  "main": "index.js",
+  "repository": "https://github.com/itsmeyaw/DeciVote",
+  "author": "Yudhistira Arief Wibowo",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
